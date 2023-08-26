@@ -2,6 +2,7 @@
 Firts line
 Second line
 last line
+test line
 
 В дальнейшем проигнорированы будут 
 Директория /.terraform/ и все вложенные файлы
