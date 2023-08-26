@@ -3,6 +3,7 @@ Firts line
 Second line
 last line
 new line
+new
 
 В дальнейшем проигнорированы будут 
 Директория /.terraform/ и все вложенные файлы
