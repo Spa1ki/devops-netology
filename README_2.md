@@ -10,6 +10,6 @@
 2) Какой, на ваш взгляд, метод работы систем конфигурации более надёжный — push или pull
 Pull - так как все изменения применяются изнутри. Отсутствие внешнего доступа для изменений
 
-| Terraform			| ansible 				| Vagrant 		| VirtualBox     |
-| ----------- 		| ----------- 			| ----------- 	| ----------     |
-| Terraform v1.5.7	| ansible [core 2.15.4] | Vagrant 2.2.19| VirtualBox 7.0 |
+| Terraform		| ansible 		| Vagrant 		| VirtualBox     |
+| ----------- 		| ----------- 		| ----------- 		| ----------     |
+| Terraform v1.6.0-dev	| ansible 2.10.8	| Vagrant 2.2.19	| VirtualBox 6.1 |
