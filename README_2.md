@@ -13,3 +13,5 @@ Pull - так как все изменения применяются изнут
 | Terraform		| ansible 		| Vagrant 		| VirtualBox     |
 | ----------- 		| ----------- 		| ----------- 		| ----------     |
 | Terraform v1.6.0-dev	| ansible 2.10.8	| Vagrant 2.2.19	| VirtualBox 6.1 |
+
+![Docker](https://github.com/Spa1ki/devops-netology/blob/main/photo_2023-10-07_16-34-01.jpg?raw=true)
